@@ -15,7 +15,7 @@
     "core-js": "^3.6.4",
     "moment": "^2.24.0",
     "register-service-worker": "^1.6.2",
-    "swiper": "^5.3.1",
+    "swiper": "^6.5.1",
     "vue": "^2.6.11",
     "vue-router": "^3.1.5",
     "vue-the-mask": "^0.11.1",
